@@ -15,7 +15,6 @@ The Document AI form processor applies machine learning models to automatically 
 In summary , this architecture allows for seamless integration between the Document AI form processor, AI summarization capabilities,and BigQuery, enabling organizations to automate the extraction of structured data from documents, obtain quick summaries of essential content, and leverage the combined information for various analytics and decision-making purposes.
 
 
-
 ## Use cases
 These are some examples of the use cases you can build on top of this architecture:
 
